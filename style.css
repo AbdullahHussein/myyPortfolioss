@@ -306,7 +306,7 @@ body {
       width: 0;
     }
     to {
-      width: 13.5em;
+      width: 16.5em;
     }
   }
   @keyframes typewriter04 {
@@ -672,7 +672,7 @@ body {
     margin-left: 10%;
     padding: 1.5vw 1.5vw 1.5vw 1.5vw;
     border-radius: .4vw;
-    background-color: rgb(30, 162, 216);
+    background-color: #1ea2d8;
     /* box-shadow: -.2vw -.2vw .2vw rgb(30, 162, 216, .3)inset; */
     transition: all .5s ease-in-out;
     font-family: Times New Roman;
@@ -978,7 +978,7 @@ body {
 }
 #second-logo {
     background-color: #ffffff;
-    background-image: url(images/trivago.png);
+    background-image: url(images/tobit.png);
     background-repeat: no-repeat;
     background-position: -500% center;
     background-size: 80%;
